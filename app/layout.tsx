@@ -18,9 +18,9 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-  title: "DSA Selenge",
+  title: "DSA Arkhangai",
   description:
-    "Сэлэнгэ аймгийн Ардчилсан Оюутны Холбооны тэргүүнийг сонгох чуулганд таныг урьж байна.",
+    "Архангай аймгийн Ардчилсан Оюутны Холбооны тэргүүнийг сонгох чуулганд таныг урьж байна.",
 };
 
 export default function RootLayout({
